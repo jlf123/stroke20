@@ -84,7 +84,7 @@
     "concurrently": "^5.1.0",
     "css-loader": "^3.5.2",
     "devtron": "^1.4.0",
-    "electron": "^8.2.2",
+    "electron": "^18.3.7",
     "electron-builder": "^22.4.1",
     "electron-react-devtools": "^0.5.3",
     "electron-redux-devtools": "^0.3.4",
